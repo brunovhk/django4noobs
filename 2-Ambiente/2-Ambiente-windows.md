@@ -16,7 +16,7 @@ Para continuação deste curso, será necessário ter instalado o Python em sua 
   variáveis de ambiente);
 
 <p align="center">
-  <img src="../images/python2.png" alt='Python Instalação' width="666" height="409">
+  <img src="../images/python2.png" alt='Python Instalação'>
 </p>
 
 * Abra o CMD/Terminal do Windows e digite `python --version`, você verá a versão do Python instalada no seu Windows.
