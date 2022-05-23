@@ -11,7 +11,7 @@ django-admin startproject projeto4noobs
 
 Após esse comando nosso projeto será criado e teremos seguinte estrutura de pastas:
 
-<img src="../images/projeto1.png">
+<img src="https://i.imgur.com/2IP0ccg.png">
 
 # Entendendo as pastas
 

@@ -18,7 +18,20 @@ seja registrado.
 
 O nome app que definimos anteriormente é "blog4noobs", então deverá ficar assim:
 
-<img src="../images/urls.png">
+```bash
+# Application definition
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'blog4noobs',
+]
+```
+
 
 Após isso, teremos que criar um arquivo **"urls.py"** dentro da pasta blog. Que ficará assim:
 
@@ -46,15 +59,31 @@ No projeto que criamos anteriormente, o caminho será:
 
 > projeto4noobs/projeto4noobs/urls.py
 
-O código deverá estar assim:
+O código estará assim:
 
-<img src="../images/urls3.png">
+```bash
+from django.contrib import admin
+from django.urls import path
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+]
+```
 
 Então iremos importar o **include** do **django.urls** e referenciar a url em **urlspatterns**.
 
 Nosso resultado será o seguinte:
 
-<img src="../images/urls4.png">
+```bash
+from django.contrib import admin
+from django.urls import path, include
+
+urlpatterns = [
+    path('', include('blog4noobs.urls')),
+    path('admin/', admin.site.urls),
+]
+]
+```
 
 ### Nota:
 

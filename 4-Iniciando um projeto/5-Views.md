@@ -33,9 +33,12 @@ Esta será nossa página HTML inicial .
 Para defini-lá, iremos abrir o arquivo **views.py** do app **"blog4noobs"**.
 
 Neste arquivo teremos o seguinte trecho de código:
-<p align="center">
-<img src="../images/views.png">
-</p>
+
+```bash
+from django.shortcuts import render
+
+# Create your views here.
+```
 Como escrito no comentário, nele criaremos nossas Views. Iremos criar a View anteriormente já definida (**"publicar"**).
 
 Utilize o trecho de código abaixo:
@@ -63,5 +66,5 @@ Quit the server with CTRL-BREAK.
 ```
 Após isso, vá ao link indicado no terminal ou utilize o link no código acima e você deverá ter um resultado como na imagem abaixo:
 <p align="center">
-<img src="../images/resultado.png">
+<img src="https://i.imgur.com/tcVGxCp.png">
 </p>

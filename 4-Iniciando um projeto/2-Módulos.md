@@ -13,7 +13,7 @@ cd .\projeto4noobs\
 
 Então estaremos dentro da pasta do projeto, veja:
 
-<img src="../images/cd.png">
+<img src="https://i.imgur.com/GB5bBPr.png">
 
 Após isso poderemos criar nosso app sem problemas.
 
@@ -25,7 +25,7 @@ django-admin startapp blog4noobs
 
 Uma nova pasta será criada com o nome que definimos (blog4noobs), esta pasta será nosso módulo:
 
-<img src="../images/projeto2.png">
+<img src="https://i.imgur.com/AcISZFL.png">
 
 ### O que é um módulo?
 
