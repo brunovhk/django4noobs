@@ -19,4 +19,4 @@ Após isso, o django estará instalado e estamos prontos para iniciar um projeto
 
 **Bons estudos !!**
 
-Ir para: [4.1 Iniciando um projeto](1-Iniciando-um-projeto.md)
+Ir para: [4.1 - Iniciando um projeto](1-Iniciando-um-projeto.md)

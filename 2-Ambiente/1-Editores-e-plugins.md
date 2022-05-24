@@ -3,7 +3,7 @@
 Para uma melhor compreensão do curso, recomendamos conhecimento básico da linguagem Python.
 
 <h1 align="center">
-  <img src="../images/python.png" alt="Django" width="200">
+  <img src="../images/pycharm-min.png" alt="Django" width="200">
 </h1>
 <p align="center">
 <a href="https://github.com/wendrewdevelop/python4noobs"> Clique aqui para conhecer o Python4noobs </a>
@@ -18,7 +18,7 @@ ao longo do curso.
 
 <hr>
 <h1 align="center">
-  <img src="../images/vscode.png" alt="Django" width="200">
+  <img src="../images/vscode-min.png" alt="Django" width="200">
 </h1>
 
 ## Visual Studio Code ##
@@ -38,7 +38,7 @@ por você.
 </p>
 
 <p align="center">
-<img src="../images/python-intellicode.gif" alt="IntelliCode Showcase">
+<img src="../images/python-intellicode.gif" alt="IntelliCode Showcase" width="200">
 </p>
 
 O IntelliCode torna o preenchimento automático mais inteligente, prevendo qual termo você provavelmente irá usar em
@@ -48,7 +48,7 @@ determinada situação. Ele irá mostrar este termo no topo da lista, marcado co
 
 <p align="center">
 
-<img src="../images/pycharm.png" alt="PyCharm">
+<img src="../images/pycharm-min.png" alt="PyCharm" width="200">
 
 </p>
 
@@ -70,7 +70,7 @@ licença e você pode saber mais <a href="https://www.jetbrains.com/community/ed
 
 <p align="center">
 
-<img src="../images/sqlite.png" alt="PyCharm" width="200">
+<img src="../images/sqlite-min.png" alt="PyCharm" width="200">
 
 </p>
 

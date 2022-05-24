@@ -11,7 +11,7 @@ django-admin startproject projeto4noobs
 
 Após esse comando nosso projeto será criado e teremos seguinte estrutura de pastas:
 
-<img src="https://i.imgur.com/2IP0ccg.png">
+<img src="../images/projeto1-min.png">
 
 # Entendendo as pastas
 
@@ -45,4 +45,4 @@ Criado nosso projeto, teremos alguns arquivos. Mas pra que servem cada um deles?
 
 **Nesta aula você aprendeu como criar um projeto como funcionam as pastas e arquivos, na próxima aulas aprenderemos como criar um módulo para nosso projeto**
 
-Ir para: [4.2 Criando um módulo](2-Módulos.md)
+Ir para: [4.2 - Criando um módulo](2-Módulos.md)

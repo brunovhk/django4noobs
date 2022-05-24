@@ -35,7 +35,7 @@ INSTALLED_APPS = [
 
 Após isso, teremos que criar um arquivo **"urls.py"** dentro da pasta blog. Que ficará assim:
 
-<img src="../images/urls2.png">
+<img src="../images/urls2-min.png">
 
 Iremos abrir este arquivo para configurar as urls do nosso app "blog4noobs".
 
@@ -103,4 +103,4 @@ path('', include('blog4noobs.urls')),
 
 **Bons estudos !!**
 
-Ir para: [4.4 Views](5-Views.md)
+Ir para: [4.5 - Templates](5-Templates.md)

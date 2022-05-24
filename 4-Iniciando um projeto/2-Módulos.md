@@ -13,7 +13,7 @@ cd .\projeto4noobs\
 
 Então estaremos dentro da pasta do projeto, veja:
 
-<img src="https://i.imgur.com/GB5bBPr.png">
+<img src="../images/cd-min.png">
 
 Após isso poderemos criar nosso app sem problemas.
 
@@ -25,7 +25,7 @@ django-admin startapp blog4noobs
 
 Uma nova pasta será criada com o nome que definimos (blog4noobs), esta pasta será nosso módulo:
 
-<img src="https://i.imgur.com/AcISZFL.png">
+<img src="../images/projeto2-min.png">
 
 ### O que é um módulo?
 
@@ -34,8 +34,6 @@ Uma nova pasta será criada com o nome que definimos (blog4noobs), esta pasta se
 
 ### Conclusão:
 
-**Nesta aula você aprendeu como criar um módulo e o que é um módulo, na próxima aulas aprenderemos como criar as URLs
-para
-que seja possível receber urls**
+**Nesta aula você aprendeu como criar um módulo e o que é um módulo, na próxima aula aprenderemos como criar nossas models**
 
-Ir para: [4.3 Configurando as URLs](4-URLS.md)
+Ir para: [4.3 - Models](3-Models.md)

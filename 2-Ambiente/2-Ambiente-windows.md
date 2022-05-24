@@ -7,7 +7,7 @@ Para continuação deste curso, será necessário ter instalado o Python em sua 
 * Baixe o instalável da última versão do Python <a href='https://www.python.org/downloads/'>AQUI</a>;
 
 <p align="center">
-  <img src="../images/python1.png" alt='Python'>
+  <img src="../images/python1-min.png" alt='Python'>
 </p>
 
 * Execute o instalável do Python que você baixou;
@@ -16,7 +16,7 @@ Para continuação deste curso, será necessário ter instalado o Python em sua 
   variáveis de ambiente);
 
 <p align="center">
-  <img src="../images/python2.png" alt='Python Instalação'>
+  <img src="../images/python2-min.png" alt='Python Instalação'>
 </p>
 
 * Abra o CMD/Terminal do Windows e digite `python --version`, você verá a versão do Python instalada no seu Windows.
