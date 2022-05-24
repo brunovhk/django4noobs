@@ -1,4 +1,4 @@
-## 2.1 - Requisitos
+## 2.0 - Requisitos e recomendações
 
 Para uma melhor compreensão do curso, recomendamos conhecimento básico da linguagem Python.
 
@@ -9,7 +9,7 @@ Para uma melhor compreensão do curso, recomendamos conhecimento básico da ling
 <a href="https://github.com/wendrewdevelop/python4noobs"> Clique aqui para conhecer o Python4noobs </a>
 </p>
 
-## 2.2 - Editor de Texto
+## 2.1 - Editor de Texto
 
 Como iremos abordar a parte básica do framework Django, não será necessário o uso de uma IDE robusta, então utilizaremos
 o editor de texto VSCode para realizarmos os nossos códigos, existem outras opções como SublimeText, Brackets e etc.
@@ -21,7 +21,7 @@ ao longo do curso.
   <img src="../images/vscode-min.png" alt="Django" width="200">
 </h1>
 
-## Visual Studio Code ##
+## 2.2 - Visual Studio Code ##
 
 <p align="center">
 <a href="https://code.visualstudio.com/download"> Clique aqui para fazer o Download </a>
@@ -31,7 +31,7 @@ Python.
 Lembrando que esses plugins <strong>NÃO</strong> impactam no desenvolvimento em si, apenas facilitará pro código ser lido e entendido
 por você.
 
-## IntelliCode ##
+## 2.3 - IntelliCode ##
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Clique aqui para fazer o Download </a>
@@ -44,7 +44,7 @@ por você.
 O IntelliCode torna o preenchimento automático mais inteligente, prevendo qual termo você provavelmente irá usar em
 determinada situação. Ele irá mostrar este termo no topo da lista, marcado com um símbolo ☆.
 
-## PyCharm (IDE recomendada) ##
+## 2.4 - PyCharm (IDE recomendada) ##
 
 <p align="center">
 
@@ -62,7 +62,7 @@ estudante pela JetBrains (empresa responsável pela ferramenta).
 Caso você tenha um e-mail institucional, é altamente recomendável procurar saber se ele está elegível a conseguir essa
 licença e você pode saber mais <a href="https://www.jetbrains.com/community/education/">clicando aqui.</a>
 
-## SQLite ##
+## 2.5 - SQLite ##
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite"> Clique aqui para fazer o Download </a>

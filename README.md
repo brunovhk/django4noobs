@@ -21,7 +21,7 @@
 
 ### Configuração de Ambiente
 
-1. [Editores de textos e plugins](/2-Ambiente/1-Editores-e-plugins.md)
+1. [Requisitos e recomendações](/2-Ambiente/1-Requisitos-e-recomendacoes.md)
 2. [Ambiente Windows](/2-Ambiente/2-Ambiente-windows.md)
 3. [Ambiente Linux](/2-Ambiente/3-Ambiente-linux.md)
 4. [Ambiente MacOS](/2-Ambiente/4-Ambiente-macos.md)
