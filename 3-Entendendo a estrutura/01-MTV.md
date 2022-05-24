@@ -1,7 +1,7 @@
 ## 3.1 O que é a arquitetura *Model-Template-View (MTV)*?
 
 <p align="center">
-<img src="../images/mtv.png" alt="Arquitetura MTV">
+<img src="../images/mtv-min.png" alt="Arquitetura MTV">
 </p>
 
 O Django utiliza uma arquitetura chamada *Model-Template-View* (MTV), que é bem parecida com a estrutura MVC.
