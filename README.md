@@ -36,9 +36,10 @@
 0. [Instalando o Django](/4-Iniciando%20um%20projeto/0-Instalando-o-Django.md)
 1. [Iniciando um projeto](/4-Iniciando%20um%20projeto/1-Iniciando-um-projeto.md)
 2. [Criando um Módulo](/4-Iniciando%20um%20projeto/2-Módulos.md)
-3. [Models](/4-Iniciando%20um%20projeto/4-URLS.md)
-4. [URLs](/4-Iniciando%20um%20projeto/6-Views.md)
-5. [Views](/4-Iniciando%20um%20projeto/3-Models.md)
+3. [Models](/4-Iniciando%20um%20projeto/3-Models.md)
+4. [URLs](/4-Iniciando%20um%20projeto/4-URLS.md)
+5. [Templates](/4-Iniciando%20um%20projeto/5-Templates.md)
+6. [Views](/4-Iniciando%20um%20projeto/6-Views.md)
 
 ## Autores
 
