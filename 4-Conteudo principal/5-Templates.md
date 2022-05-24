@@ -1,4 +1,4 @@
-# 4.4 - Templates
+# 4.5 - Templates
 
 ## O que são templates?
 
@@ -74,4 +74,4 @@ que seja possível receber urls**
 
 **Bons estudos !!**
 
-Ir para: [4.5 - URLs](5-URLS.md)
+Ir para: [4.5 - Configurando as URLs](6-URLS.md)

@@ -1,4 +1,4 @@
-# 4.3 - Models
+# 4.4 - Models
 
 ## O que são models?
 
@@ -104,4 +104,4 @@ Isso significa que nossas tabelas se encontram no banco de dados e podemos consu
 
 **Bons estudos !!**
 
-Ir para: [4.4 - Templates](4-Templates.md)
+Ir para: [4.4 - Templates](5-Templates.md)

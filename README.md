@@ -30,29 +30,30 @@
 
 ### 1 - Introdução
 
-1. [Boas Vindas](/1-Introducao/1-Boas-vindas.md)
-2. [Comunicação](/1-Introducao/2-Comunicacao.md)
+1. [Boas Vindas](1-Introducao/1-Boas-vindas.md)
+2. [Comunicação](1-Introducao/2-Comunicacao.md)
 
 ### 2 - Configuração de Ambiente
 
-1. [Editores de textos e plugins](/2-Ambiente/1-Editores-e-plugins.md)
-2. [Ambiente Windows](/2-Ambiente/2-Ambiente-windows.md)
-3. [Ambiente Linux](/2-Ambiente/3-Ambiente-linux.md)
-4. [Ambiente MacOS](/2-Ambiente/4-Ambiente-macos.md)
+1. [Editores de texto e plugins](2-Ambiente/1-Editores-e-plugins.md)
+2. [Ambiente Windows](2-Ambiente/2-Ambiente-windows.md)
+3. [Ambiente Linux](2-Ambiente/3-Ambiente-linux.md)
+4. [Ambiente MacOS](2-Ambiente/4-Ambiente-macos.md)
 
 ### 3 - Entendendo a estrutura do Django
 
-0. [Entendendo a estrutura](/3-Entendendo%20a%20estrutura/00-Ciclo.md)
-1. [Arquitetura Model-Template-View](/3-Entendendo%20a%20estrutura/01-MTV.md)
+1. [Ciclo do Django](3-Entendendo%20a%20estrutura/1-Ciclo.md)
+2. [Arquitetura Model-Template-View](3-Entendendo%20a%20estrutura/2-MTV.md)
 
 ### 4 - Conteúdo principal
 
-0. [Instalando o Django](/4-Iniciando%20um%20projeto/0-Instalando-o-Django.md)
-1. [Iniciando um projeto](/4-Iniciando%20um%20projeto/1-Iniciando-um-projeto.md)
-2. [Criando um Módulo](/4-Iniciando%20um%20projeto/2-Módulos.md)
-3. [Models](/4-Iniciando%20um%20projeto/4-URLS.md)
-4. [URLs](/4-Iniciando%20um%20projeto/6-Views.md)
-5. [Views](/4-Iniciando%20um%20projeto/3-Models.md)
+1. [Instalando o Django](4-Conteudo%20principal/1-Instalando-o-Django.md)
+2. [Iniciando um projeto](4-Conteudo%20principal/2-Iniciando-um-projeto.md)
+3. [Criando um Módulo](4-Conteudo%20principal/3-Módulos.md)
+4. [Models](4-Conteudo%20principal/4-Models.md)
+5. [Templates](4-Conteudo%20principal/5-Templates.md)
+6. [Configurando as URLs](4-Conteudo%20principal/6-URLS.md)
+7. [Views](4-Conteudo%20principal/7-Views.md)
 
 <!-- CONTRIBUTING -->
 

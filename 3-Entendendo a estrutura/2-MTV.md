@@ -1,4 +1,4 @@
-## 3.1 - O que é a arquitetura *Model-Template-View (MTV)*?
+## 3.2 - O que é a arquitetura *Model-Template-View (MTV)*?
 
 <p align="center">
 <img src="../images/mtv-min.png" width="500" alt="Arquitetura MTV">
@@ -26,4 +26,4 @@ comporta recebendo dados, tratando e retornando-os para o usuário.**
 
 **Bons estudos!!**
 
-Ir para: [4.0 - Instalando o Django](../4-Conteúdo%20principal/0-Instalando-o-Django.md)
+Ir para: [4.0 - Instalando o Django](../4-Conteúdo%20principal/1-Instalando-o-Django.md)

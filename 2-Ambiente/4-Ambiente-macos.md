@@ -40,4 +40,4 @@ Para mais informações sobre como instalar o PHP utilizando homebrew no MacOS:
 
 https://python.org.br/instalacao-mac/
 
-Ir para: [3 - Como Funciona o Django?](../3-Entendendo%20a%20estrutura/00-Ciclo.md)
+Ir para: [3 - Como Funciona o Django?](../3-Entendendo%20a%20estrutura/1-Ciclo.md)

@@ -1,4 +1,4 @@
-# 4.2 - Criando nosso primeiro módulo
+# 4.3 - Criando nosso primeiro módulo
 
 Já criamos nosso projeto com o *startproject*, mas precisamos criar nosso módulo.
 
@@ -55,4 +55,4 @@ C:.
 
 **Bons estudos !!**
 
-Ir para: [4.3 - Models](3-Models.md)
+Ir para: [4.3 - Models](4-Models.md)

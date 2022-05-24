@@ -1,4 +1,4 @@
-# 4.5 - Configurando as URLs
+# 4.6 - Configurando as URLs
 
 Com o projeto e app criados, podemos agora partir para a configuração do projeto.
 
@@ -131,4 +131,4 @@ nossas views.**
 
 **Bons estudos !!**
 
-Ir para: [4.6 - Views](6-Views.md)
+Ir para: [4.6 - Views](7-Views.md)

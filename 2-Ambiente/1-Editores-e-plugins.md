@@ -1,4 +1,6 @@
-## Requisitos
+## 2.1 - Editores e plugins
+
+### Requisitos
 
 Para uma melhor compreensão do curso, recomendamos conhecimento básico da linguagem Python.
 
@@ -14,7 +16,7 @@ Para uma melhor compreensão do curso, recomendamos conhecimento básico da ling
   <img src="../images/vscode-min.png" alt="Visual Studio Code" width="120">
 </h1>
 
-## Visual Studio Code ##
+### Visual Studio Code ##
 
 Neste curso utilizaremos como IDE o Visual Studio Code, por ser uma IDE acessível a todos.
 
@@ -24,7 +26,7 @@ Para isso, instale o VSCode e vamos começar a equipar nosso editor de texto com
 <a href="https://code.visualstudio.com/download"> Clique aqui para fazer o Download </a>
 </p>
 
-## IntelliCode ##
+### IntelliCode ##
 
 <p align="center">
 <img src="../images/python-intellicode.gif" alt="IntelliCode Showcase">
@@ -39,7 +41,7 @@ Para facilitar nossa vida, instalaremos o IntelliCode em nossa IDE.
 <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Clique aqui para fazer o Download </a>
 </p>
 
-## PyCharm (IDE recomendada) ##
+### PyCharm (IDE recomendada)
 
 <p align="center">
 
@@ -55,7 +57,7 @@ estudante pela JetBrains utilizando seu e-mail institucional ou atestado de matr
 
 Saiba mais <a href="https://www.jetbrains.com/community/education/">clicando aqui.</a>
 
-## SQLite ##
+### SQLite
 
 <p align="center">
 

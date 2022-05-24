@@ -1,4 +1,4 @@
-# 4.1 - Iniciando um projeto
+# 4.2 - Iniciando um projeto
 Com o Django instalado, iremos iniciar nosso projeto.
 
 No terminal da nossa IDE, utilizaremos o comando abaixo para iniciarmos um projeto:
@@ -58,4 +58,4 @@ Criado nosso projeto, teremos alguns arquivos. Mas pra que servem cada um deles?
 
 **Bons estudos !!**
 
-Ir para: [4.2 - Criando um módulo](2-Módulos.md)
+Ir para: [4.2 - Criando um módulo](3-Módulos.md)

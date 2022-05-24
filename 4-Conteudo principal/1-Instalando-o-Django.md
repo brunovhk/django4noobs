@@ -1,4 +1,4 @@
-# 4.0 - Instalando o Django
+# 4.1 - Instalando o Django
 
 Agora que você já entendeu como funciona a estrutura do Django, iremos instalá-lo para que seja possível iniciar um projeto.
 
@@ -17,4 +17,4 @@ Após isso, o django estará instalado e estamos prontos para iniciar um projeto
 
 **Bons estudos !!**
 
-Ir para: [4.1 - Iniciando um projeto](1-Iniciando-um-projeto.md)
+Ir para: [4.1 - Iniciando um projeto](2-Iniciando-um-projeto.md)
