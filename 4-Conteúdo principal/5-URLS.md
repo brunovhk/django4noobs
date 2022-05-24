@@ -1,4 +1,4 @@
-# 4.4 - Configurando as URLs
+# 4.5 - Configurando as URLs
 
 Com o projeto e app criados, podemos agora partir para a configuração do projeto.
 
@@ -6,7 +6,7 @@ Com o projeto e app criados, podemos agora partir para a configuração do proje
 
 > Para cada app que criamos, teremos que registrá-lo nas configurações.
 
-Então iremos abrir o arquivo para configurar, o arquivo será o settings.py
+Então iremos abrir o arquivo para configurar, o arquivo será o **settings.py**
 
 No projeto que criamos anteriormente, o caminho será:
 

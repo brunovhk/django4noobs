@@ -3,7 +3,7 @@
 Para uma melhor compreensão do curso, recomendamos conhecimento básico da linguagem Python.
 
 <h1 align="center">
-  <img src="../images/python-min.png" alt="Python" width="200">
+  <img src="../images/python.svg" alt="Python" width="200">
 </h1>
 <p align="center">
 <a href="https://github.com/wendrewdevelop/python4noobs"> Clique aqui para conhecer o Python4noobs </a>
@@ -11,7 +11,7 @@ Para uma melhor compreensão do curso, recomendamos conhecimento básico da ling
 
 <hr>
 <h1 align="center">
-  <img src="../images/vscode-min.png" alt="Visual Studio Code" width="200">
+  <img src="../images/vscode-min.png" alt="Visual Studio Code" width="120">
 </h1>
 
 ## Visual Studio Code ##
@@ -27,10 +27,6 @@ Para isso, instale o VSCode e vamos começar a equipar nosso editor de texto com
 ## IntelliCode ##
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Clique aqui para fazer o Download </a>
-</p>
-
-<p align="center">
 <img src="../images/python-intellicode.gif" alt="IntelliCode Showcase">
 </p>
 
@@ -38,6 +34,10 @@ O IntelliCode torna o preenchimento automático mais inteligente, prevendo qual 
 determinada situação. Ele irá mostrar este termo no topo da lista, marcado com um símbolo ☆.
 
 Para facilitar nossa vida, instalaremos o IntelliCode em nossa IDE.
+
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Clique aqui para fazer o Download </a>
+</p>
 
 ## PyCharm (IDE recomendada) ##
 
@@ -58,16 +58,17 @@ Saiba mais <a href="https://www.jetbrains.com/community/education/">clicando aqu
 ## SQLite ##
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite"> Clique aqui para fazer o Download </a>
-</p>
-
-<p align="center">
 
 <img src="../images/sqlite-min.png" alt="PyCharm" width="200">
 
 </p>
 
 Precisaremos do SQLite para consultar nosso banco de dados através do terminal no VSCode.
+
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite"> Clique aqui para fazer o Download </a>
+</p>
+
 
 Para isso, instale no Visual Studio Code através do link acima.
 
@@ -84,4 +85,4 @@ Use ".open FILENAME" to reopen on a persistent database.
 sqlite>
 ```
 
-Ir para: [2.2 Ambiente Windows](2-Ambiente-windows.md)
+Ir para: [2.2 - Ambiente Windows](2-Ambiente-windows.md)

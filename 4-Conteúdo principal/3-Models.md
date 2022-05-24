@@ -1,6 +1,6 @@
 # 4.3 - Models
 
-## O que são?
+## O que são models?
 
 > Um model é a nossa descrição do dado que será gerenciado pela aplicação.
 > Os models estão relacionados à estrutura do banco de dados. Neles contém os campos e comportamentos dos dados.

@@ -1,8 +1,8 @@
-# 4.5 - Views
+# 4.6 - Views
 
-## O que são?
+## O que são views?
 
-> A view é onde ficará a lógica do nosso aplicativo. Ela será responsável por extrair as informações do nosso model e
+> Uma view é onde ficará a lógica do nosso aplicativo. Ela será responsável por extrair as informações do nosso model e
 > exibi-la no template.
 
 ## Criando um View

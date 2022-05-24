@@ -1,6 +1,6 @@
-# 4.5 - Templates
+# 4.4 - Templates
 
-## O que são?
+## O que são templates?
 
 > Os templates são responsáveis pelo definição de layout
 > Templates no Django são nossos arquivos de textos, que podem ser convertidos em documentos de diferentes linguagens.
@@ -63,7 +63,7 @@ Neste arquivo HTML iremos inserir o seguinte trecho de código:
 </html>
 ```
 
-Esta será nossa página HTML inicial .
+Esta será nossa página HTML inicial.
 
 ### Conclusão:
 

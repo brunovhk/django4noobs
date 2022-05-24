@@ -53,4 +53,4 @@ solicitadas serão exibidas na tela para o usuário.
 
 **Bons estudos !!**
 
-Ir para: [3.1 Componentes do Django](01-MTV.md)
+Ir para: [3.1 - Arquitetura MTV](01-MTV.md)
