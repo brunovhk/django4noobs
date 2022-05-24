@@ -1,7 +1,7 @@
 <h1 align="center">Django4Noobs</h1>
 
 <h1 align="center">
-  <img src="./images/django.png" alt="Django" width="200">
+  <img src="./images/django-min.png" alt="Django" width="200">
 </h1>
 
 <p align="center">Tutorial de Django para iniciantes no Framework.</p>
