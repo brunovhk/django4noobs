@@ -3,19 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bbcec28-b4cc-48c3-a12c-eac4eb8635e5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Ambiente/1-Editores-e-plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-Ambiente/1-Editores-e-plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Ambiente/1-Requisitos-e-recomendacoes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Ambiente/4-Ambiente-macos.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-Ambiente/4-Ambiente-macos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Entendendo a estrutura/00-Ciclo.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-Entendendo a estrutura/1-Ciclo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Entendendo a estrutura/01-MTV.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-Entendendo a estrutura/2-MTV.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/0-Instalando-o-Django.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/1-Instalando-o-Django.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/1-Iniciando-um-projeto.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/2-Iniciando-um-projeto.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/2-Módulos.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/3-Módulos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/3-Models.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/4-Models.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/4-Templates.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/5-Templates.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/5-URLS.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/6-URLS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Conteúdo principal/6-Views.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-Conteudo principal/7-Views.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Entendendo a estrutura/2-MTV.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-Entendendo a estrutura/2-MTV.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +83,9 @@
       <workItem from="1653372827415" duration="147000" />
       <workItem from="1653373004861" duration="731000" />
       <workItem from="1653373752214" duration="309000" />
+      <workItem from="1653376510638" duration="23000" />
+      <workItem from="1653376864699" duration="206000" />
+      <workItem from="1653377090631" duration="6000" />
     </task>
     <servers />
   </component>

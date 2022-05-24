@@ -26,4 +26,4 @@ comporta recebendo dados, tratando e retornando-os para o usuário.**
 
 **Bons estudos!!**
 
-Ir para: [4.0 - Instalando o Django](../4-Conteúdo%20principal/1-Instalando-o-Django.md)
+Ir para: [4.0 - Instalando o Django](../4-Conteudo%20principal/1-Instalando-o-Django.md)
