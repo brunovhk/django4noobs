@@ -32,10 +32,35 @@ INSTALLED_APPS = [
 ]
 ```
 
+Após isso, teremos que criar um arquivo **"urls.py"** dentro da pasta blog4noobs. A estrutura de pastas deverá ficar
+assim:
 
-Após isso, teremos que criar um arquivo **"urls.py"** dentro da pasta blog. Que ficará assim:
-
-<img src="../images/urls2-min.png">
+```bash
+C:.
+│   manage.py
+│
+├───blog4noobs
+│   │   admin.py
+│   │   apps.py
+│   │   models.py
+│   │   tests.py
+│   │   urls.py
+│   │   views.py
+│   │   __init__.py
+│   │
+│   ├───migrations
+│   │       __init__.py
+│   │
+│   └───templates
+│           publicar.html
+│
+└───projeto4noobs
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+```
 
 Iremos abrir este arquivo para configurar as urls do nosso app "blog4noobs".
 
@@ -50,7 +75,8 @@ urlpatterns = [
 ]
 ```
 
-Note que no trecho de código estamos importando todas as views, e referenciando uma view chamada **"publicar"**, porém não temos ela ainda e iremos criar
+Note que no trecho de código estamos importando todas as views, e referenciando uma view chamada **"publicar"**, porém
+não temos ela ainda e iremos criar
 posteriormente.
 
 Agora temos que configurar no arquivo de URLs principal.
@@ -91,7 +117,8 @@ urlpatterns = [
     conjunto de views que serão acessadas;
 > - **include:** Este método serve para que possamos incluir um conjunto de views.
 
-Este arquivo é muito importante, e representa todas as URLs do nosso projeto. Todas as URLs que criamos no app "blog4noobs" serão importadas a partir da linha:
+Este arquivo é muito importante, e representa todas as URLs do nosso projeto. Todas as URLs que criamos no app "
+blog4noobs" serão importadas a partir da linha:
 
 ```bash
 path('', include('blog4noobs.urls')),
@@ -99,8 +126,9 @@ path('', include('blog4noobs.urls')),
 
 ### Conclusão:
 
-**Nesta aula você aprendeu como criar as URLs do nosso projeto, na próxima aula aprenderemos como criar nossa view para exibir ao usuário**
+**Nesta aula você aprendeu como criar as URLs do nosso projeto, na próxima aula aprenderemos como criar
+nossas views.**
 
 **Bons estudos !!**
 
-Ir para: [4.5 - Templates](5-Templates.md)
+Ir para: [4.6 - Views](6-Views.md)

@@ -4,7 +4,7 @@ Para o ambiente MacOS é preciso fazer a instalação do XCode, que pode ser bai
 na <a href='https://apps.apple.com/br/app/xcode/id497799835'>App Store</a>, do pacote para desenvolvimento em linha de
 comando no macOS, command line tools e dos gerenciadores de pacotes pip e homebrew.
 
-## 2.4.1 - Passo a passo:
+## Passo a passo:
 
 - Para instalar o *command line tools*, basta rodar o comando abaixo:
 

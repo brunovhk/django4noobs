@@ -100,10 +100,8 @@ Isso significa que nossas tabelas se encontram no banco de dados e podemos consu
 
 ### Conclusão:
 
-**Nesta aula você aprendeu como criar um model e o que são models, na próxima aula aprenderemos como criar as URLs
-para
-que seja possível receber urls**
+**Nesta aula você aprendeu como criar um model e o que são models, na próxima aula aprenderemos como criar um template**
 
-Ir para: [4.4 - URLs](4-URLS.md)
+**Bons estudos !!**
 
-## Bons estudos!! ##
+Ir para: [4.4 - Templates](4-Templates.md)

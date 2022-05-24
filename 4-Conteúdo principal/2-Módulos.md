@@ -11,11 +11,7 @@ abaixo:
 cd .\projeto4noobs\
 ```
 
-Então estaremos dentro da pasta do projeto, veja:
-
-<img src="../images/cd-min.png">
-
-Após isso poderemos criar nosso app sem problemas.
+Então estaremos dentro da pasta do projeto e após isso poderemos criar nosso app sem problemas.
 
 Para criar o app, rode o comando abaixo no terminal da sua IDE:
 
@@ -23,9 +19,30 @@ Para criar o app, rode o comando abaixo no terminal da sua IDE:
 django-admin startapp blog4noobs
 ```
 
-Uma nova pasta será criada com o nome que definimos (blog4noobs), esta pasta será nosso módulo:
+Uma nova pasta será criada com o nome que definimos (blog4noobs), esta pasta será nosso módulo. Veja a estrutura de pastas:
 
-<img src="../images/projeto2-min.png">
+```bash
+C:.
+│   manage.py
+│
+├───blog4noobs
+│   │   admin.py
+│   │   apps.py
+│   │   models.py
+│   │   tests.py
+│   │   views.py
+│   │   __init__.py
+│   │
+│   └───migrations
+│           __init__.py
+│
+└───projeto4noobs
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+```
 
 ### O que é um módulo?
 
@@ -35,5 +52,7 @@ Uma nova pasta será criada com o nome que definimos (blog4noobs), esta pasta se
 ### Conclusão:
 
 **Nesta aula você aprendeu como criar um módulo e o que é um módulo, na próxima aula aprenderemos como criar nossas models**
+
+**Bons estudos !!**
 
 Ir para: [4.3 - Models](3-Models.md)

@@ -2,13 +2,13 @@
 
 Antes de iniciarmos um projeto, vamos entender o funcionamento do Django.
 
-O Django separa o processo em duas fases, são elas:
+O Django separa o processo em duas fases:
 **Request Phase** e **Response Phase**.
 
 Podemos conferir na imagem abaixo o ciclo completo entre as duas fases:
 
 <p align="center">
-<img src="../images/django-lifecycle.png" alt="Ciclo de vida do Django">
+<img src="../images/django-lifecycle-min.png" alt="Ciclo de vida do Django">
 </p>
 
 <h3>Request Phase:</h3>
@@ -26,7 +26,7 @@ Django.
 fluxo
 vai sendo executado dentro da nossa aplicação.
 
-Exemplo: Um usuário requisita uma URL que é necessário autenticação, o **Middleware** irá fazer esta verificação e caso
+**Exemplo:** Um usuário requisita uma URL que é necessário autenticação, o **Middleware** irá fazer esta verificação e caso
 o usuário não esteja logado ou não tenha acesso liberado para esta página, o Django fará uma mudança no fluxo e
 retornará outra URL para o usuário.
 > Um exemplo de redirecionamento seria para a tela de login caso o usuário não tenha acesso à página requisitada.

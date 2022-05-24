@@ -2,8 +2,6 @@
 
 Agora que você já entendeu como funciona a estrutura do Django, iremos instalá-lo para que seja possível iniciar um projeto.
 
-Utilizarei como IDE o Visual Studio Code por ser acessível para todos.
-
 Com a pasta do seu projeto já aberta em sua IDE, vamos abrir o **terminal** e instalar o Django.
 Basta rodar o comando abaixo no terminal da sua IDE para instalar o Django:
 

@@ -2,7 +2,7 @@
 
 Para continuação deste curso, será necessário ter instalado o Python em sua máquina.
 
-### 2.2.1 - Passo a passo - Python:
+### Passo a passo - Python:
 
 * Baixe o instalável da última versão do Python <a href='https://www.python.org/downloads/'>AQUI</a>;
 
@@ -11,7 +11,8 @@ Para continuação deste curso, será necessário ter instalado o Python em sua 
 </p>
 
 * Execute o instalável do Python que você baixou;
-* Faça instalação do Python em "Install Now" (Lembre-se de marcar a caixa "Add Python 3.10 to PATH" para definirmos o
+* Faça instalação do Python em **"Install Now"** (Lembre-se de marcar a caixa **"Add Python 3.10 to PATH"** para que o
+  instalador defina o
   Python nas
   variáveis de ambiente);
 

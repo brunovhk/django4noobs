@@ -1,5 +1,7 @@
 ## 2.3 - Ambiente Linux
 
+### Passo a passo - Python3
+
 Nosso ambiente de desenvolvimento nas distribuições Linux será bem simples de se instalar.
 
 Vamos instalar o Python com alguns módulos para ajudar no desenvolvimento posteriormente.
@@ -55,7 +57,7 @@ O retorno do comando acima deve exibir algo parecido com:
 Python 3.10.4
 ```
 
-### 2.2.2 - Passo a passo - SQLite:
+### Passo a passo - SQLite:
 * Basta digitar o comando abaixo para instalar o SQLite3:
 
 ```bash

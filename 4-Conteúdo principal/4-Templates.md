@@ -17,10 +17,34 @@ nossas views anteriormente referenciadas.
 
 Crie uma pasta com o nome **templates** dentro da pasta do seu app (blog4noobs).
 
-Dentro da pasta templates, crie um arquivo *HTML* com o nome do template definido anteriormente (**publicar.html**).
-<p align="center">
-<img src="../images/template.png">
-</p>
+Dentro da pasta templates, crie um arquivo *HTML* com o nome do template definido anteriormente (**publicar.html**). Veja a estrutura de pastas:
+
+```bash
+C:.
+│   manage.py
+│
+├───blog4noobs
+│   │   admin.py
+│   │   apps.py
+│   │   models.py
+│   │   tests.py
+│   │   views.py
+│   │   __init__.py
+│   │
+│   ├───migrations
+│   │       __init__.py
+│   │
+│   └───templates
+│           publicar.html
+│
+└───projeto4noobs
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+```
+
 Neste arquivo HTML iremos inserir o seguinte trecho de código:
 
 ```bash
@@ -44,8 +68,10 @@ Esta será nossa página HTML inicial .
 ### Conclusão:
 
 **Nesta aula você aprendeu como criar um template e pra que servem os templates, na próxima aula aprenderemos como criar
-nossa view para exibir ao usuário**
+as URLs
+para
+que seja possível receber urls**
 
 **Bons estudos !!**
 
-Ir para: [4.6 - Views](6-Views.md)
+Ir para: [4.5 - URLs](5-URLS.md)
